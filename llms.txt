@@ -1,2 +1,25 @@
 # Durham Heating & Cooling
-HVAC services in Ontario.
+
+> Durham Heating & Cooling: furnace and AC repair, heat pumps, and ductless in Durham, Ontario. Local, licensed HVAC team serving the Saugeen Valley with free quotes.
+
+Durham Heating & Cooling is a local HVAC company serving Durham and the surrounding Grey County communities.
+
+## Main
+
+- [Durham Heating & Cooling - Home](https://durhamontarioheatingcooling.ca/): Services overview, service areas, reviews, and FAQ.
+
+## Services
+
+- [Furnace Repair](https://durhamontarioheatingcooling.ca/services/furnace-repair/): Furnace repair in Durham, Ontario. Gas, propane, and oil furnaces serviced by a local team across Durham, Hanover, and Walkerton. Same-day calls, free quotes.
+- [AC Repair](https://durhamontarioheatingcooling.ca/services/ac-repair/): AC repair in Durham, Ontario. Central air, heat pumps, and mini-splits serviced for warm, humid Grey County summers. Free quotes.
+- [Ductless AC Installation](https://durhamontarioheatingcooling.ca/services/ductless-ac-installation/): Ductless mini-split installation in Durham, Ontario. Cold-climate units for home offices, additions, and rural farm properties. Free quotes.
+- [Heat Pump Repair & Installation](https://durhamontarioheatingcooling.ca/services/heat-pump-repair-installation/): Heat pump repair and installation in Durham, Ontario. Cold-climate units for village homes and rural farms moving off propane. Free quotes.
+- [Thermostat Repair & Replacement](https://durhamontarioheatingcooling.ca/services/thermostat-repair-replacement/): Smart thermostat repair and replacement in Durham, Ontario. Install and setup for village and rural households through long Grey County winters. Free quotes.
+- [Duct Cleaning](https://durhamontarioheatingcooling.ca/services/duct-cleaning/): Duct cleaning in Durham, Ontario. Full-run cleaning for century village homes, rural farmhouses, and new builds. Free quotes.
+
+## Company
+
+- [About Us](https://durhamontarioheatingcooling.ca/about/): Durham Heating & Cooling is a licensed, insured HVAC company serving Durham, Ontario with honest, reliable heating and cooling care. Meet the team.
+- [Contact](https://durhamontarioheatingcooling.ca/contact/): Contact Durham Heating & Cooling for fast, friendly HVAC service in Durham, Ontario. Call (519) 369-5147 or request a free quote online. Open 24/7.
+- [Service Areas](https://durhamontarioheatingcooling.ca/#areas): Durham Heating & Cooling serves Durham, Hanover, Walkerton, Chesley, Paisley, Neustadt.
+- [FAQ](https://durhamontarioheatingcooling.ca/#faq): Common HVAC questions answered on the homepage.
